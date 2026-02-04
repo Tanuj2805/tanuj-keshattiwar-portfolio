@@ -67,6 +67,7 @@ const Skills = () => {
       opacity: 0,
       rotateX: -10
     },
+
     animate: (index) => ({
       scale: 1,
       opacity: 1,
