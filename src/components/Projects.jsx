@@ -211,7 +211,7 @@ const Projects = () => {
                 </p>
               </div>
               <a
-                href="https://github.com/tanujkeshattiwar"
+                href="https://github.com/tanuj2805"
                 className="mt-6 lg:mt-0 px-8 py-3 bg-accent text-primary font-semibold rounded-lg hover:shadow-lg hover:shadow-accent/30 transition-all duration-300 flex items-center"
               >
                 <FiGithub className="mr-3" />

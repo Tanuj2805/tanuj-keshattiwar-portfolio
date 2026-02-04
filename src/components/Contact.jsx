@@ -51,8 +51,8 @@ const contactInfo = [
   {
     id: 'email',
     label: 'Email',
-    value: 'tanujkeshattiwar@example.com',
-    link: 'mailto:tanujkeshattiwar@example.com',
+    value: 'tanujkeshattiwar@gmail.com',
+    link: 'mailto:tanujkeshattiwar@gmail.com',
     icon: 'email'
   },
   {
