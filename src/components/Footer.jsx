@@ -56,10 +56,10 @@ const Footer = () => {
             transition={{ delay: 0.2 }}
             className="flex space-x-4"
           >
-            {['LinkedIn', 'GitHub', 'Twitter'].map((platform) => (
+            {['LinkedIn'].map((platform) => (
               <a
                 key={platform}
-                href="#"
+                href="www.linkedin.com/in/tanuj-keshattiwar"
                 className="w-10 h-10 rounded-full border border-accent/20 flex items-center justify-center text-text-secondary hover:text-accent hover:border-accent/50 transition-all duration-300"
                 aria-label={platform}
               >
