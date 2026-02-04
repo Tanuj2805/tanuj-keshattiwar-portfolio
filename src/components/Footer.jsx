@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { FiHeart, FiCoffee, FiCode } from 'react-icons/fi';
 
 const Footer = () => {
-  const currentYear = new Date().getFullYear();
+
 
   return (
     <footer className="relative border-t border-accent/10">

@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FiUser, FiTarget, FiAward, FiCode, FiLayers } from 'react-icons/fi';
+import { FiUser, FiTarget, FiCode, FiLayers } from 'react-icons/fi';
 
 const About = () => {
  const stats = [

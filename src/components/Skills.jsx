@@ -195,7 +195,7 @@ const Skills = () => {
               key={key}
               variants={itemVariants}
               onClick={() => setActiveCategory(key)}
-              variants={tabVariants}
+              
               whileHover="hover"
               whileTap="tap"
               initial="initial"

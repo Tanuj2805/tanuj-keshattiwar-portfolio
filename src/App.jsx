@@ -10,7 +10,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import ParticleBackground from './components/ParticleBackground';
 
-import { FiTerminal, FiCpu, FiCode } from 'react-icons/fi';
+import { FiTerminal, FiCpu } from 'react-icons/fi';
 
 function App() {
   const [activeSection, setActiveSection] = useState('home');
