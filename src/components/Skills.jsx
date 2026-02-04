@@ -59,15 +59,7 @@ const Skills = () => {
     }
   };
 
-  const tabVariants = {
-    initial: { scale: 1 },
-    hover: { 
-      scale: 1.05,
-      boxShadow: "0 10px 30px rgba(100, 255, 218, 0.3)",
-      transition: { type: "spring", stiffness: 400, damping: 10 }
-    },
-    tap: { scale: 0.95 }
-  };
+
 
   const skillCardVariants = {
     initial: { 
